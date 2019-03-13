@@ -1,0 +1,58 @@
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\GMap.NET.Core.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\Mundo.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\Mundo.pdb
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\GMap.NET.Core.xml
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Admin.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.AdminListaServicios.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Formulario.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaMesVsNumServicios.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaUsuariosMasActivos.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaUsuVsNumServ.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaVentsVsCompra.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.HacerServicioCOMPRA.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.HacerServicioVENTA.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.InfoUsuarioCON.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.infoUsuarioSIN.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Login.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Notificaciones.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.RecomendacionUsu.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Registro.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Visualizador.resources
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.Cache
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\Mundo.dll
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\Mundo.pdb
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\GMap.NET.Core.xml
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Admin.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.AdminListaServicios.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Formulario.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaMesVsNumServicios.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaUsuariosMasActivos.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaUsuVsNumServ.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.GraficaVentsVsCompra.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.HacerServicioCOMPRA.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.HacerServicioVENTA.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.InfoUsuarioCON.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.infoUsuarioSIN.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Login.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Notificaciones.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.RecomendacionUsu.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Registro.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.Visualizador.resources
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.Cache
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Interfaz\obj\Debug\Interfaz.pdb

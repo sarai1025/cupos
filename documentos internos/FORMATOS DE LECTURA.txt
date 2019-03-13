@@ -1,0 +1,16 @@
+FORMATO DE LECTURA 
+
+USUARIOS
+
+nombre;telefono;id;contraseña;tipousuario;numerocarros;numeroserviciosqueharegistrado
+
+modelo;placa;color
+
+fechayhoraSalida;cupos;destino;partida
+
+//FORMATO LECTURA SERVICIOS ACTIVOS
+
+
+ID;HORAYFECHASALIDA;CUPOS;PARTIDA;DESTINO;numeroUsuariosqueYaReservaron
+ID
+ID

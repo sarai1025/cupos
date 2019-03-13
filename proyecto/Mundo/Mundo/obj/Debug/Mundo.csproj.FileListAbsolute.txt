@@ -1,0 +1,16 @@
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\Mundo.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\Mundo.pdb
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\GMap.NET.Core.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\GMap.NET.Core.xml
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\obj\Debug\Mundo.dll
+C:\Users\sarai\OneDrive\Documentos\Source\Repos\Sirtruu\Mundo\Mundo\Mundo\obj\Debug\Mundo.pdb
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\Mundo.dll
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\Mundo.pdb
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\GMap.NET.Core.xml
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\obj\Debug\Mundo.csprojResolveAssemblyReference.cache
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\obj\Debug\Mundo.dll
+C:\Users\sarai\Documents\universidad\6\INTEGRADOR I\PROYECTO FINAL\SOLUCION\Sirtruu\Mundo\Mundo\Mundo\obj\Debug\Mundo.pdb

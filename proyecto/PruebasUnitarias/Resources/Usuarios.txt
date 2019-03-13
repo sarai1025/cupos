@@ -1,0 +1,17 @@
+sarai;4467582;1143875490;holamundo;USUARIO_SIN_CARRO;0;2
+12 enero 2017 3:55 pm;1;icesi;chipichape
+13 diciembre 2017 4:00 pm;1;chipichape;icesi
+leslie;3128762;1143444502;holi;USUARIO_CON_CARRO;1;3
+mazda;aup999;gris
+4 febrero 2017 2:00 pm;2;calima;icesi
+4 febrero 2017 8:00 pm;3;icesi;hacienda
+5 febrero 2017 7:00 am;4;chiminangos;icesi
+Valery;4556790;1133567890;no;USUARIO_SIN_CARRO;0;2
+12 febrero 2017 4:55 pm;1;icesi;la70
+13 marzo 2017 4:00 pm;1;la70;icesi
+Victor;4778939;1155767890;no;USUARIO_CON_CARRO;1;4
+chevrolet;kyz899;rojo
+22 enero 2017 2:55 pm;4;icesi;jardinplaza
+21 marzo 2017 5:00 pm;3;jardinplaza;icesi
+5 febrero 2017 8:00 pm;3;icesi;valledellili
+10 marzo 2017 4:00 pm;4;valledellili;icesi
